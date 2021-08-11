@@ -15,7 +15,8 @@ const End = (props) => {
               <br></br>Vielen Dank für die Teilnahme!{" "}
             </p>
             <p>
-              Klicken Sie jetzt bitte auf den Button, um zur Umfrage zu gelangen
+              Klicken Sie jetzt bitte auf den Button, um zur zweiten App zu
+              gelangen.
               {/* <p> Klicken Sie jetzt bitte auf den Button, um zur zweiten App-Version zu gelangen */}
               <br></br>
               <br></br>
@@ -23,7 +24,7 @@ const End = (props) => {
           </div>
         </header>
         <div id="containerButtonEnd">
-          <a href="http://www.nav2goe5.github.io/">Zur zweiten App!</a>
+          <a href="https://nav2goe5.github.io/">Zur zweiten App!</a>
           {/* <a href="https://morza95.github.io">
             App-Version 2 starten
           </a> */}
